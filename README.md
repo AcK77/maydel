@@ -1,6 +1,6 @@
 # MayDel
 
-A useless Switch system module who allow you to light on/off the (hidden) right JoyCon's LED.
+A useless Switch system module who allow you to light on/off the (hidden) LED on the right JoyCon or Pro Controller.
 
 Works on firmware higher than 7.x **ONLY**!
 
@@ -10,10 +10,12 @@ Blink only works when LED is already power on. As we can't know if the LED is al
 
 # Usage
 
-- Put the release zip content inside `sdmc:/atmosphere/titles/`.
+- Put the release zip content inside `sdmc:/atmosphere/titles/` and reboot your switch.
 - Push Left Stick and ZL to light on.
 - Push Left Stick and ZR to light off.
 - Enjoy...
+
+![MayDel](https://i.imgur.com/w8KyrOTm.png)
 
 ## Credits
 
